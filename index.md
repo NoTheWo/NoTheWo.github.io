@@ -6,7 +6,7 @@ Lübeck.
 
 ## Program
 
-All talks are 20 minutes and 5 minutes for change/questions
+All talks are 20 minutes and 5 minutes for change/questions. All talks will be held in English.
 
 | Time           | Program                                                                                         |
 |----------------|-------------------------------------------------------------------------------------------------|
